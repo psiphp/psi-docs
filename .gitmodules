@@ -1,0 +1,6 @@
+[submodule "components/description"]
+	path = components/description
+	url = https://github.com/psiphp/description
+[submodule "components/resource-browser"]
+	path = components/resource-browser
+	url = https://github.com/psiphp/resource-browser
