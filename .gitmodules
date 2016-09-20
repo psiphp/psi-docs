@@ -4,3 +4,9 @@
 [submodule "components/description"]
 	path = components/description
 	url = https://github.com/psiphp/description
+[submodule "components/content-type"]
+	path = components/content-type
+	url = https://github.com/psiphp/content-type
+[submodule "components/content-type-bundle"]
+	path = components/content-type-bundle
+	url = https://github.com/psiphp/content-type-bundle
