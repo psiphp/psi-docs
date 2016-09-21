@@ -9,7 +9,7 @@ Welcome to Psi CMF's documentation!
 Components:
 
 .. toctree::
-   :maxdepth: 2
+   :maxdepth: 1
 
    components/content-type/docs/index
    components/description/docs/index
@@ -18,6 +18,7 @@ Components:
 Symfony Bundles:
 
 .. toctree::
+   :maxdepth: 1
 
    components/content-type-bundle/docs/index
    components/description-bundle/docs/index
