@@ -1,8 +1,9 @@
-Welcome to Psi CMF's documentation!
-===================================
+Psi PHP
+=======
 
-The primary aim of the Psi organization is to provide problem-solving, decoupled CMS
-components.
+The primary aim of the Psi organization is to provide problem-solving, decoupled
+components for **content management systems**.
+
 
 Components
 ----------
@@ -22,11 +23,3 @@ Symfony Bundles
 
    components/content-type-bundle/docs/index
    components/description-bundle/docs/index
-
-Indices and tables
-------------------
-
-* :ref:`genindex`
-* :ref:`modindex`
-* :ref:`search`
-
